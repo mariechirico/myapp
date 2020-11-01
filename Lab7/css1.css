@@ -1,0 +1,38 @@
+h1{
+	text-align:center;
+	color:orange;
+	text-decoration:underline;
+	text-transform: uppercase;
+}
+h3{
+	text-align:center;
+	color:orange;
+	text-transform: uppercase;
+}
+body{
+	background-color:black;
+}
+ul{
+	color:lightgray;
+	font-style: italic;
+}
+td{
+	width:25%;
+}
+a {
+	color:orange;
+	text-decoration:underline;
+}
+a:hover{
+	color:white;
+	text-decoration:underline;
+}
+img {
+    display: block;
+    margin: auto;
+}
+footer{
+	text-align:center;
+	background-color:gray;
+	color:white;
+}

@@ -1,0 +1,36 @@
+
+footer{
+	background-color:blue;
+	padding-left:20%;
+}
+nav{
+	max-width:20%;
+	margin: 0;
+    padding: 0;
+	background-color:black;
+	color:white;
+	height: 100%; 
+    position: fixed;
+  
+}
+a:link{
+	color:white;
+	text-decoration:none;
+
+}
+body{
+	background-color:gray;
+	
+}
+ol{
+	padding-left:20%
+}
+img {
+    max-width: 100%;
+    height: auto;
+	display: block;
+	margin:auto;
+}
+h1{
+	text-align:center;
+}

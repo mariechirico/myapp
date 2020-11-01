@@ -1,0 +1,57 @@
+body{
+	/*background-color:rgb(0, 99, 71);*/
+	background-image:url("pexels-photo.jpg");
+	color:black;
+	font-family: "Verdana", sans-serif;
+}
+h1{
+	text-align:center;
+	text-decoration:underline;
+}
+h2{
+	color:rgb(120, 120, 120);
+	font-size:20px;
+}
+h4{
+	text-align:center;
+}
+a:visited{
+	color:gray;
+	text-decoration:none;
+}
+a:link{
+	color:rgb(120, 120, 120);
+	text-decoration:none;
+}
+a:hover{
+	color:lime;
+	text-decoration:underline;
+}
+ol{
+	
+}
+div{
+	padding-left:20px;
+	border:10px white;
+	border-style:solid;
+	
+}
+table{
+	width:100%;
+}
+tr{
+	height:300px;
+}
+td{
+	width:50%;
+	vertical-align:text-top;
+	/*border:10px white;
+	border-style:solid;*/
+}
+#head1{
+	height:100px;
+}
+footer{
+	background-color:black;
+	color:white;
+}

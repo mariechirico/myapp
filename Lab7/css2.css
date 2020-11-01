@@ -1,0 +1,48 @@
+h1{
+	text-align:center;
+	color:SlateBlue;
+	letter-spacing: 5px;
+	text-transform: lowercase;
+	text-decoration: underline;
+}
+h3{
+	text-align:center;
+	color:slateblue;
+	text-transform: lowercase;
+	text-decoration: underline;
+}
+body{
+	background-image: url("background.jpg");
+	font-family: "Courier New", monospace;
+	line-height: 1.5;
+}
+ul{
+	color:black;
+	font-weight: bold;
+}
+td{
+	width:25%;
+	background-color: rgb(196, 190, 255);
+}
+table{
+	border: 5px solid black;
+}
+a {
+	color:red;
+	text-decoration:underline;
+}
+a:hover{
+	color:black;
+	text-decoration:underline;
+}
+img {
+    display: block;
+	margin: auto;
+}
+footer{
+	width:50%;
+	margin-left: 400px;
+	text-align:center;
+	background-color:yellow;
+	color:black;
+}

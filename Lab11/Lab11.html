@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Marie Chirico Lab 11</title>
+	<link rel="stylesheet" type="text/css" href="css11.css">
+</head>
+<body>
+
+<!--<form>
+Pick a number between 1 and 6:<br>
+<input type="text" name="p1"><br>
+</form>
+-->
+
+<button onclick="document.getElementById('dice').innerHTML = check()">Roll the Die</button>
+<p id="dice"></p>
+<a href="..\PORTMAIN.html">Back to Portfolio</a>
+<script>
+function check(){
+var p2 = Math.floor(Math.random() * 6+1)
+   /* if(p1==p2)
+	{
+	return "Die rolled a "+ p2 + " YOU WIN!! :)";
+	}
+	else
+	{
+	return "Die rolled a "+ p2 + " YOU LOSE!! :(";
+	}*/
+	
+	return p2;
+}
+</script>
+</body>
+</html>

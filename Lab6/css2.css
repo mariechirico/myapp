@@ -1,0 +1,41 @@
+h1{
+	text-align:left;
+	color:SlateBlue;
+
+}
+h3{
+	text-align:center;
+	color:slateblue;
+}
+body{
+	background-image: url("background.jpg");
+	font-family: "Courier New", monospace;
+}
+ul{
+	color:black;
+}
+td{
+	width:25%;
+}
+table{
+	border: 5px solid black;
+}
+a {
+	color:red;
+	text-decoration:underline;
+}
+a:hover{
+	color:black;
+	text-decoration:underline;
+}
+img {
+    display: block;
+    float: right;
+}
+footer{
+	width:50%;
+	margin-left: 400px;
+	text-align:center;
+	background-color:yellow;
+	color:black;
+}
